@@ -1,7 +1,6 @@
-# README
+# Ruby On Rails Friend List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Build Out Our Friends List App Website 
 
 Things you may want to cover:
 
